@@ -41,5 +41,4 @@ pnpm dev
 - GET `/final-selection`
 - POST `/attendance`
 - POST `/assignments/upload`
-# AISB-Onboarding-Agent
 
